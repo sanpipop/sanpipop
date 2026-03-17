@@ -7,7 +7,7 @@ Student
 I am studying Computer Engineering at Prince of Songkla University, Year 2.
 
 * 🌍  I'm based in Songkhla, Thailand
-* 🧠  I'm learning C++
+* 🧠  I'm learning GameDeveloper
 
 <a href="https://www.github.com/sanpipop" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sanpipop?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
