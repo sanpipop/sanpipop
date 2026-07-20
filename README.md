@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/sanpipop" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1c1917" alt="GitHub" /></a>
-  <a href="https://sanpipop-portfolio.vercel.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1c1917" alt="Portfolio" /></a>
+  <a href="https://sanpipop-portfolio.vercel.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-Website-7C3AED?style=for-the-badge&labelColor=1c1917" alt="Portfolio" /></a>
   <a href="mailto:sanpipop.work@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1917" alt="Email" /></a>
 </p>
 
