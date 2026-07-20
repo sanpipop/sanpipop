@@ -12,6 +12,9 @@
   <a href="https://www.github.com/sanpipop" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/sanpipop?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub followers" />
   </a>
+  <a href="https://sanpipop-portfolio.vercel.app/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1c1917" alt="Portfolio" />
+  </a>
   <a href="mailto:sanpipop.work@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1917" alt="Email" />
   </a>
@@ -83,7 +86,9 @@ A **private full-stack web application project** for task management, habit trac
 **Tech Stack**  
 Next.js, NestJS, PostgreSQL, Prisma, Socket.IO, Tailwind CSS, TypeScript, Stripe
 
-> Repository: Private
+**Links**
+- Website: [tamraia.com](https://tamraia.com)
+- Repository: Private
 
 ---
 
@@ -98,5 +103,6 @@ Next.js, NestJS, PostgreSQL, Prisma, Socket.IO, Tailwind CSS, TypeScript, Stripe
 
 ## Contact
 
+- Portfolio: [sanpipop-portfolio.vercel.app](https://sanpipop-portfolio.vercel.app/)
 - GitHub: [github.com/sanpipop](https://github.com/sanpipop)
-- Email: sanpipop.work@gmail.com
+- Email: [sanpipop.work@gmail.com](mailto:sanpipop.work@gmail.com)
